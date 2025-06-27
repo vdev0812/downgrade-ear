@@ -18,7 +18,7 @@
 		<PRODUCT PID="0x4017" URL="https://downloads.bose.com/ced/kleos/index.xml" />
 		<PRODUCT PID="0x4018" URL="https://downloads.bose.com/ced/levi/index.xml" />
 		<PRODUCT PID="0x4020" URL="https://downloads.bose.com/ced/PRE_RRA/baywolf/index.xml" />
-		<PRODUCT PID="0x4022" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/fle.xml" />
+		<PRODUCT PID="0x4022" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/flex.xml" />
 		<PRODUCT PID="0x4023" URL="https://downloads.bose.com/ced/pascal/index.xml" />
 		<PRODUCT PID="0x4024" URL="https://downloads.bose.com/ced/goodyear/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x402C" URL="https://downloads.bose.com/ced/celine/index.xml" />

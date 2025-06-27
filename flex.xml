@@ -5,6 +5,10 @@
         <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_3.0.3_stack_plus_app.dfu" LENGTH="1761440" NOFORCE="1" REVISION="3.0.3.6546" SUBID="0" />
         <IMAGE CRC="0XEB198EC7" FILENAME="Minnow_3.0.3_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="3.0.3.6546" SUBID="1" TARGET="1" />
       </RELEASE>
+      <RELEASE HTTPHOST="downloads.bose.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="5.0.3.6546" URLPATH="/ced/minnow/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Minnow_3.0.3_stack_plus_app.dfu" LENGTH="1761440" NOFORCE="1" REVISION="3.0.3.6546" SUBID="0" />
+        <IMAGE CRC="0XEB198EC7" FILENAME="Minnow_3.0.3_ext_signed.xuv" LENGTH="16727488" NOFORCE="0" REVISION="3.0.3.6546" SUBID="1" TARGET="1" />
+      </RELEASE>
     </HARDWARE>
   </DEVICE>
 </INDEX>

@@ -4,6 +4,9 @@
             <RELEASE HTTPHOST="www.bose.cn" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.0.5-7b57a8d" URLPATH="/ced/bose_music_china/olivia/">
                 <IMAGE CRC="0xCA78CADE" FILENAME="olivia_encrypted_prod_2.0.5-7b57a8d.bin" LENGTH="5071348" NOFORCE="1" REVISION="2.0.5-7b57a8d" SUBID="0"/>
             </RELEASE>
+            <RELEASE HTTPHOST="www.bose.cn" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="3.0.5-7b57a8d" URLPATH="/ced/bose_music_china/olivia/">
+                <IMAGE CRC="0xCA78CADE" FILENAME="olivia_encrypted_prod_2.0.5-7b57a8d.bin" LENGTH="5071348" NOFORCE="1" REVISION="3.0.5-7b57a8d" SUBID="0"/>
+            </RELEASE>
         </HARDWARE>
     </DEVICE>
 </INDEX>

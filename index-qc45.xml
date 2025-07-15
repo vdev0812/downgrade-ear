@@ -1,0 +1,24 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x4039" PRODUCTNAME="" USE_CLOUD="4">
+  <HARDWARE REVISION="01.00.00">
+	<RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="1.0.2-2586+4461fb8" URLPATH="/downloads/devarea/duran/">
+		<IMAGE CRC="0XACFEE488" FILENAME="duran_encrypted_prod_1.0.2-4461fb8.bin" LENGTH="6002572" NOFORCE="1" REVISION="1.0.2-2586+4461fb8" SUBID="0"/>
+	</RELEASE>
+	<RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="1.0.3-2674+ee3f55e" URLPATH="/downloads/devarea/duran/">
+		<IMAGE CRC="0X7671E748" FILENAME="duran_encrypted_prod_1.0.3-ee3f55e.bin" LENGTH="6002700" NOFORCE="1" REVISION="1.0.3-2674+ee3f55e" SUBID="0"/>
+	</RELEASE>
+	<RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="2.0.4-3475+32e4b0e" URLPATH="/downloads/devarea/duran/">
+		<IMAGE CRC="0XFCC05C1B" FILENAME="duran_encrypted_prod_2.0.4-32e4b0e.bin" LENGTH="6018444" NOFORCE="1" REVISION="2.0.4-3475+32e4b0e" SUBID="0"/>
+	</RELEASE>
+	<RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="3.0.2-3763+0120f98" URLPATH="/downloads/devarea/duran/">
+		<IMAGE CRC="0X34587BFA" FILENAME="duran_encrypted_prod_3.0.2-0120f98.bin" LENGTH="6018540" NOFORCE="1" REVISION="3.0.2-3763+0120f98" SUBID="0"/>
+	</RELEASE>
+	<RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="3.5.0-3809+623f836" URLPATH="/downloads/devarea/duran/">
+		<IMAGE CRC="0X5297AEE0" FILENAME="duran_encrypted_prod_3.5.0-623f836.bin" LENGTH="6018972" NOFORCE="1" REVISION="3.5.0-3809+623f836" SUBID="0"/>
+	</RELEASE>
+	<RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.0.4-4360+de6a887" URLPATH="/downloads/devarea/duran/">
+		<IMAGE CRC="0XBC4BFF13" FILENAME="duran_encrypted_prod_4.0.4-de6a887.bin" LENGTH="6075980" NOFORCE="1" REVISION="4.0.4-4360+de6a887" SUBID="0"/>
+	</RELEASE>
+	</HARDWARE>
+  </DEVICE>
+</INDEX>

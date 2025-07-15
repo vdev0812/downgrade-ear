@@ -20,7 +20,7 @@
 		<IMAGE CRC="0XBC4BFF13" FILENAME="duran_encrypted_prod_4.0.4-de6a887.bin" LENGTH="6075980" NOFORCE="1" REVISION="4.0.4-4360+de6a887" SUBID="0"/>
 	</RELEASE>
 	  <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="7.0.4-4360+de6a887" URLPATH="/downloads/devarea/duran/">
-		<IMAGE CRC="0XBC4BFF13" FILENAME="duran_encrypted_prod_4.0.4-de6a887.bin" LENGTH="6075980" NOFORCE="1" REVISION="4.0.4-4360+de6a887" SUBID="0"/>
+		<IMAGE CRC="0XBC4BFF13" FILENAME="duran_encrypted_prod_4.0.4-de6a887.bin" LENGTH="6075980" NOFORCE="1" REVISION="7.0.4-4360+de6a887" SUBID="0"/>
 	</RELEASE>
 	</HARDWARE>
   </DEVICE>

@@ -1,0 +1,9 @@
+<INDEX REVISION="01.00.00">
+    <DEVICE ID="0x4039" PRODUCTNAME="Quietcomfort 45" USE_CLOUD="4">
+        <HARDWARE REVISION="01.00.00">
+            <RELEASE HTTPHOST="downloads.bose.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="4.0.4-4360+de6a887" URLPATH="/ced/duran/">
+                <IMAGE CRC="0xBC4BFF13" FILENAME="duran_encrypted_prod_4.0.4-de6a887.bin" LENGTH="6075980" NOFORCE="1" REVISION="4.0.4-4360+de6a887" SUBID="0"/>
+            </RELEASE>
+        </HARDWARE>
+    </DEVICE>
+</INDEX>

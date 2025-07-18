@@ -26,7 +26,7 @@
 		<PRODUCT PID="0x402F" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/indexqc1.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4035" URL="https://downloads.bose.com/ced/m3/index.xml" />
 		<PRODUCT PID="0x4037" URL="https://downloads.bose.com/stetson/indy1/index.xml"/>
-		<PRODUCT PID="0x4039" URL="https://www.bose.cn/ced/bose_music_china/duran/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x4039" URL="https://downloads.bose.com/ced/duran/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x403A" URL="https://downloads.bose.com/ced/gwen/index.xml" DEVICE_CLASS="BMAP"/>
 		<PRODUCT PID="0x404C" URL="https://downloads.bose.com/ced/celine2/index.xml" />
 		<PRODUCT PID="0x4060" URL="https://downloads.bose.com/ced/olivia/index.xml" DEVICE_CLASS="BMAP" />
@@ -43,6 +43,8 @@
 		<PRODUCT PID="0xA300" URL="https://downloads.bose.com/pro/grandprix_lx/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0xA303" URL="https://downloads.bose.com/pro/grandprix_gx/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0xBC61" URL="https://downloads.bose.com/ced/mathers/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x4063" URL="https://downloads.bose.com/ced/edith/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x4085" URL="https://downloads.bose.com/ced/troy/index.xml" DEVICE_CLASS="BMAP"/>
 		<RRA>
 			<RRA-PRODUCT PID="0x400A" URL="https://downloads.bose.com/ced/isaac/index.xml" />
 			<RRA-PRODUCT PID="0x400C" URL="https://downloads.bose.com/ced/wolfcastle/index.xml" />

@@ -26,7 +26,7 @@
 		<PRODUCT PID="0x402F" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/indexqc1old.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4035" URL="https://downloads.bose.com/ced/m3/index.xml" />
 		<PRODUCT PID="0x4037" URL="https://downloads.bose.com/stetson/indy1/index.xml"/>
-		<PRODUCT PID="0x4039" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/index-qc45.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x4039" URL="https://downloads.bose.com/ced/duran/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x403A" URL="https://downloads.bose.com/ced/gwen/index.xml" DEVICE_CLASS="BMAP"/>
 		<PRODUCT PID="0x404C" URL="https://downloads.bose.com/ced/celine2/index.xml" />
 		<PRODUCT PID="0x4060" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/oli.xml" DEVICE_CLASS="BMAP" />
@@ -57,3 +57,4 @@
 			<RRA-PRODUCT PID="0xBC60" URL="https://downloads.bose.com/ced/phelps2/index.xml"/>
 		</RRA>
 </ROOT>
+

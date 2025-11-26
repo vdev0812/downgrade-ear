@@ -1,0 +1,10 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0xBC60" PRODUCTNAME="Bose Flex Soundlink">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="downloads.bose.com" LANGUAGES="en-us" REVISION="2.0.5-7+2d918d1" URLPATH="/ced/phelps2/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Phelps_2.0.5_stack_plus_app.dfu" LENGTH="1770614" NOFORCE="1" REVISION="2.0.5-7+2d918d1" SUBID="0" />
+        <IMAGE CRC="0XAB3F417E" FILENAME="Phelps_2.0.5_ext_signed.xuv" LENGTH="16727424" NOFORCE="0" REVISION="2.0.5-7+2d918d1" SUBID="1" TARGET="1" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>

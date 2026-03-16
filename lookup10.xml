@@ -45,7 +45,7 @@
 		<PRODUCT PID="0xBC61" URL="https://downloads.bose.com/ced/mathers/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4063" URL="https://downloads.bose.com/ced/edith/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4085" URL="https://downloads.bose.com/ced/troy/index.xml" DEVICE_CLASS="BMAP"/>
-		<PRODUCT PID="0xBC58" URL="https://downloads.bose.com/ced/billie/index.xml" DEVICE_CLASS="BMAP"/>
+		<PRODUCT PID="0xBC58" URL="https://downloads-dev.bose.com/ced/billie/index.xml" DEVICE_CLASS="BMAP"/>
 		<PRODUCT PID="0x4082" URL="https://downloads.bose.com/ced/wolverine/index.xml" DEVICE_CLASS="BMAP"/>
 		<PRODUCT PID="0xBC63" URL="https://downloads.bose.com/ced/stan/index.xml" DEVICE_CLASS="BMAP"/>
 		

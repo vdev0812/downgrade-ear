@@ -1,0 +1,192 @@
+<INDEX REVISION="01.00.00">
+    <DEVICE ID="0x094F" PRODUCTNAME="M" USE_CLOUD="0">
+        <HARDWARE REVISION="01.00.00">
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.2.1-1+gc248fba"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xEC4458E1" FILENAME="m_unencrypted_0.2.1.bin" LENGTH="5926212"
+                    NOFORCE="1" REVISION="0.2.1-1+gc248fba" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.3.0+g3cb08d8"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xA0AC2658" FILENAME="m_unencrypted_0.3.0.bin" LENGTH="5112016"
+                    NOFORCE="1" REVISION="0.3.0+g3cb08d8" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.4.0+gb212916"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x97E8EBCE" FILENAME="m_unencrypted_0.4.0.bin" LENGTH="5137368"
+                    NOFORCE="1" REVISION="0.4.0+gb212916" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.6.4+g12aaa5b"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x4B65C53D" FILENAME="m_unencrypted_0.6.4.bin" LENGTH="5577512"
+                    NOFORCE="1" REVISION="0.6.4+g12aaa5b" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.6.8+ga706576"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x24982161" FILENAME="m_unencrypted_0.6.8.bin" LENGTH="5584476"
+                    NOFORCE="1" REVISION="0.6.8+ga706576" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.6.8+ga706576"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xC112FD46" FILENAME="m_encrypted_prod_0.6.8.bin" LENGTH="5584712"
+                    NOFORCE="1" REVISION="0.6.8+ga706576" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.7.0+ga1b159b"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x51C542AA" FILENAME="m_unencrypted_0.7.0.bin" LENGTH="5596748"
+                    NOFORCE="1" REVISION="0.7.0+ga1b159b" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.7.2+g86fa493"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x8E04A900" FILENAME="m_unencrypted_0.7.2.bin" LENGTH="5568056"
+                    NOFORCE="1" REVISION="0.7.2+g86fa493" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.8.0+g801af52"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x4D5E3D85" FILENAME="m_unencrypted_0.8.0.bin" LENGTH="5576096"
+                    NOFORCE="1" REVISION="0.8.0+g801af52" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.8.0+g801af52"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xC9E429F9" FILENAME="m_encrypted_prod_0.8.0.bin" LENGTH="5576344"
+                    NOFORCE="1" REVISION="0.8.0+g801af52" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.8.4+gaddc0c6"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x68FF0143" FILENAME="m_unencrypted_0.8.4.bin" LENGTH="5578692"
+                    NOFORCE="1" REVISION="0.8.4+gaddc0c6" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.8.4+gaddc0c6"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x1EEF7BDB" FILENAME="m_encrypted_prod_0.8.4.bin" LENGTH="5578936"
+                    NOFORCE="1" REVISION="0.8.4+gaddc0c6" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.2+g6e49d95"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x835432A4" FILENAME="m_unencrypted_4.3.2.bin" LENGTH="5584552"
+                    NOFORCE="1" REVISION="4.3.2+g6e49d95" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.2+g6e49d95"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x25C214CD" FILENAME="m_encrypted_prod_4.3.2.bin" LENGTH="5584792"
+                    NOFORCE="1" REVISION="4.3.2+g6e49d95" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.4+g6d4814d"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x7C1824C2" FILENAME="m_encrypted_prod_4.3.4.bin" LENGTH="5610600"
+                    NOFORCE="1" REVISION="4.3.4+g6d4814d" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.4+g6d4814d"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xB4BBC616" FILENAME="m_unencrypted_4.3.4.bin" LENGTH="5610360"
+                    NOFORCE="1" REVISION="4.3.4+g6d4814d" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.8+g48b749a"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x70992507" FILENAME="m_unencrypted_4.3.8.bin" LENGTH="5886996"
+                    NOFORCE="1" REVISION="4.3.8+g48b749a" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.8+g48b749a"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xC01E11F0" FILENAME="m_encrypted_prod_4.3.8.bin" LENGTH="5887240"
+                    NOFORCE="1" REVISION="4.3.8+g48b749a" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.10+gb5119af"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xC459097E" FILENAME="m_unencrypted_4.3.10.bin" LENGTH="5898076"
+                    NOFORCE="1" REVISION="4.3.10+gb5119af" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.10+gb5119af"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x8A0Cf676" FILENAME="m_encrypted_prod_4.3.10.bin" LENGTH="5898328"
+                    NOFORCE="1" REVISION="4.3.10+gb5119af" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.18+gfc29e15"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x237BA703" FILENAME="m_unencrypted_4.3.18.bin" LENGTH="5910268"
+                    NOFORCE="1" REVISION="4.3.18+gfc29e15" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.18+gfc29e15"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xAA7D8CBD" FILENAME="m_encrypted_prod_4.3.18.bin" LENGTH="5910520"
+                    NOFORCE="1" REVISION="4.3.18+gfc29e15" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.20+g3edff38"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x48E9E8FC" FILENAME="m_unencrypted_4.3.20.bin" LENGTH="5914040"
+                    NOFORCE="1" REVISION="4.3.20+g3edff38" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.20+g3edff38"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x8CB7C4BA" FILENAME="m_encrypted_prod_4.3.20.bin" LENGTH="5914296"
+                    NOFORCE="1" REVISION="4.3.20+g3edff38" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.24+gcf73698"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x943E292A" FILENAME="m_encrypted_prod_4.3.24.bin" LENGTH="5915576"
+                    NOFORCE="1" REVISION="4.3.24+gcf73698" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.3.24+gcf73698"
+                URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x1BC37EAB" FILENAME="m_unencrypted_4.3.24.bin" LENGTH="5915320"
+                    NOFORCE="1" REVISION="4.3.24+gcf73698" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.3.26+g11ea21e" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x004C8C48" FILENAME="m_unencrypted_4.3.26.bin" LENGTH="5917024"
+                    NOFORCE="1" REVISION="4.3.26+g11ea21e" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.3.26+g11ea21e" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x456907AE" FILENAME="m_encrypted_prod_4.3.26.bin" LENGTH="5917272"
+                    NOFORCE="1" REVISION="4.3.26+g11ea21e" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.3.30+g52d47a9" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x87BE28B7" FILENAME="m_unencrypted_4.3.30.bin" LENGTH="5918424"
+                    NOFORCE="1" REVISION="4.3.30+g52d47a9" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.3.30+g52d47a9" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x48D5E6CF" FILENAME="m_encrypted_prod_4.3.30.bin" LENGTH="5918680"
+                    NOFORCE="1" REVISION="4.3.30+g52d47a9" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.11.4+g834b077" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x8B8898B8" FILENAME="m_unencrypted_4.11.4.bin" LENGTH="6039120"
+                    NOFORCE="1" REVISION="4.11.4+g834b077" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.11.4+g834b077" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x2CE8C863" FILENAME="m_encrypted_prod_4.11.4.bin" LENGTH="6039352"
+                    NOFORCE="1" REVISION="4.11.4+g834b077" SUBID="0" />
+            </RELEASE>
+
+          <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.11.26+g1b552db" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0xAADC56AB" FILENAME="m_unencrypted_4.11.26.bin" LENGTH="6051168"
+                    NOFORCE="1" REVISION="4.11.26+g1b552db" SUBID="0" />
+            </RELEASE>
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="4.11.26+g1b552db" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0x73677009" FILENAME="m_encrypted_prod_4.11.26.bin" LENGTH="6051416"
+                    NOFORCE="1" REVISION="4.11.26+g1b552db" SUBID="0" />
+            </RELEASE>
+
+            <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us"
+                REVISION="8.2.16+g259c916" URLPATH="/ced/mathers/">
+                <IMAGE CRC="0XB4C06DB8" FILENAME="mathers_encrypted_prod_8.2.16.bin" LENGTH="5669128"
+                    NOFORCE="1" REVISION="8.2.16+g259c916" SUBID="0" />
+            </RELEASE>
+        </HARDWARE>
+    </DEVICE>
+</INDEX>

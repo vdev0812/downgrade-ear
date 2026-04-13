@@ -60,6 +60,6 @@
 			<RRA-PRODUCT PID="0x4020" URL="https://downloads.bose.com/ced/baywolf/index.xml" />
 			<RRA-PRODUCT PID="0xA211" URL="https://downloads.bose.com/pro/chibi/index.xml" DEVICE_CLASS="TYMPHANY" />
 			<RRA-PRODUCT PID="0xBC59" URL="https://downloads-dev.bose.com/ced/phelps/index.xml"/>
-			<RRA-PRODUCT PID="0xBC60" URL="https://downloads-dev.bose.com/ced/phelps/index.xml"/>
+			<RRA-PRODUCT PID="0xBC60" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/indexphelp2to1.xml"/>
 		</RRA>
 </ROOT>

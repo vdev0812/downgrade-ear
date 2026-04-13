@@ -34,7 +34,7 @@
 		<PRODUCT PID="0x4065" URL="https://downloads.bose.com/ced/smalls_case/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4067" URL="https://downloads.bose.com/ced/serena_case/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4066" URL="https://downloads.bose.com/ced/lonestarr/index.xml" DEVICE_CLASS="BMAP" />
-		<PRODUCT PID="0x094F" URL="https://downloads.bose.com/ced/edelman/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x094F" URL="https://raw.githubusercontent.com/vdev0812/downgrade-ear/refs/heads/main/indexflex2.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4073" URL="https://downloads.bose.com/ced/scotty/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4075" URL="https://downloads.bose.com/ced/prince/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4100" URL="https://downloads.bose.com/ced/cascade/index.xml" DEVICE_CLASS="BMAP" />

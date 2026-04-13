@@ -59,7 +59,7 @@
 			<RRA-PRODUCT PID="0x4014" URL="https://downloads.bose.com/ced/powder/index.xml" />
 			<RRA-PRODUCT PID="0x4020" URL="https://downloads.bose.com/ced/baywolf/index.xml" />
 			<RRA-PRODUCT PID="0xA211" URL="https://downloads.bose.com/pro/chibi/index.xml" DEVICE_CLASS="TYMPHANY" />
-			<RRA-PRODUCT PID="0xBC59" URL="https://downloads-dev.bose.com/ced/phelps1/index.xml"/>
-			<RRA-PRODUCT PID="0xBC60" URL="https://downloads-dev.bose.com/ced/phelps1/index.xml"/>
+			<RRA-PRODUCT PID="0xBC59" URL="https://downloads-dev.bose.com/ced/phelps/index.xml"/>
+			<RRA-PRODUCT PID="0xBC60" URL="https://downloads-dev.bose.com/ced/phelps/index.xml"/>
 		</RRA>
 </ROOT>
